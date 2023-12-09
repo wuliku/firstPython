@@ -24,7 +24,7 @@ def add(x, y):
 
 add_num = add(1, 2)
 print(f"add_num={add_num}")
-str_str = "success"
+str_str = "success2"
 if str_str:
     print(f"str_str={str_str}")
 
