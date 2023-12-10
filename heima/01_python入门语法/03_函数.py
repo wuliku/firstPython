@@ -34,3 +34,7 @@ if __name__ == '__main__':
 
 def _add_num_1_():
     print()
+
+
+def add_num_9():
+    print()
